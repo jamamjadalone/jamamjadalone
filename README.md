@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-jamamjadalone-181717?style=for-the-badge&logo=github)](https://github.com/jamamjadalone)
 
 <p align="center">
-  Passionate about developing intelligent automation workflows, responsive web applications, browser extensions, and open-source system tools.
+  Passionate about developing intelligent automation workflows, privacy-first web suites, browser extensions, and open-source system tools.
 </p>
 
 </div>
@@ -16,12 +16,12 @@
 
 ### 🚀 Featured Public Projects by Category
 
-#### 🌐 Web Applications & Front-End
+#### 🌐 Web Applications & Front-End Suites
+- **[OmniTools](https://github.com/jamamjadalone/omnitools)** — 150+ in-browser web utilities across 10 categories (Image tools, Converters, Developer utilities, SEO, Calculators). 100% client-side with zero server roundtrips.
 - **[Islamic Azkar Pro](https://github.com/jamamjadalone/islamic-azkar-pro)** — Modern, responsive Islamic Azkar & Tasbeeh web app with Quran.com Tajweed API integration and offline PWA capability.
 - **[50+ HTML/CSS/JS Projects](https://github.com/jamamjadalone/50-html-css-js-projects)** — Curated collection of front-end projects with live demos and GitHub Pages support.
-- **[OmniTools](https://github.com/jamamjadalone/omnitools)** — Online utility suite for media, documents, text manipulation, and productivity.
-- **[Urdu Thumbnail Maker](https://github.com/jamamjadalone/Urdu-Thumbnail-Maker)** — Lightweight browser-based tool to generate Urdu thumbnails for content creators.
-- **[Image Resizer & Compressor](https://github.com/jamamjadalone/image-resizer-compressor)** — In-browser image compression and resizing utility with zero server uploads.
+- **[Urdu Thumbnail Maker](https://github.com/jamamjadalone/Urdu-Thumbnail-Maker)** — Lightweight browser-based tool to generate bold Urdu thumbnails for content creators.
+- **[Urdu Scrolling Video Generator](https://github.com/jamamjadalone/urdu-scrolling-video-generator)** — Browser-based video creator for automated Urdu scrolling poetry and story reels.
 
 #### 🤖 AI, Browser Extensions & Media Utilities
 - **[Prompt-Image Pair Capturer](https://github.com/jamamjadalone/prompt-image-pair-capturer)** — MV3 browser extension that automatically pairs AI generation prompts with images, storing them locally with JSON export.
