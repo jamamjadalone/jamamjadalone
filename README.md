@@ -1,34 +1,39 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Amjad (Jam Amjad Alone) 👋
+# Hi there, I'm Muhammad Amjad Rasheed 👋
 ### Full-Stack & Systems Developer | AI & Automation Enthusiast
 
 [![YouTube](https://img.shields.io/badge/YouTube-@jamamjadalone-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@jamamjadalone)
 [![GitHub](https://img.shields.io/badge/GitHub-jamamjadalone-181717?style=for-the-badge&logo=github)](https://github.com/jamamjadalone)
 
 <p align="center">
-  Passionate about developing intelligent automation workflows, responsive web applications, and low-level Android/system tools.
+  Passionate about developing intelligent automation workflows, responsive web applications, browser extensions, and open-source system tools.
 </p>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects by Category
+### 🚀 Featured Public Projects by Category
 
 #### 🌐 Web Applications & Front-End
 - **[Islamic Azkar Pro](https://github.com/jamamjadalone/islamic-azkar-pro)** — Modern, responsive Islamic Azkar & Tasbeeh web app with Quran.com Tajweed API integration and offline PWA capability.
-- **[50+ HTML/CSS/JS Projects](https://github.com/jamamjadalone/50-html-css-js-projects)** — Curated collection of beginner to advanced web projects with live GitHub Pages demos.
+- **[50+ HTML/CSS/JS Projects](https://github.com/jamamjadalone/50-html-css-js-projects)** — Curated collection of front-end projects with live demos and GitHub Pages support.
 - **[OmniTools](https://github.com/jamamjadalone/omnitools)** — Online utility suite for media, documents, text manipulation, and productivity.
+- **[Urdu Thumbnail Maker](https://github.com/jamamjadalone/Urdu-Thumbnail-Maker)** — Lightweight browser-based tool to generate Urdu thumbnails for content creators.
+- **[Image Resizer & Compressor](https://github.com/jamamjadalone/image-resizer-compressor)** — In-browser image compression and resizing utility with zero server uploads.
 
-#### 🤖 AI & Stock Media Automation
+#### 🤖 AI, Browser Extensions & Media Utilities
 - **[Prompt-Image Pair Capturer](https://github.com/jamamjadalone/prompt-image-pair-capturer)** — MV3 browser extension that automatically pairs AI generation prompts with images, storing them locally with JSON export.
-- **[Stock Submission Assistant](https://github.com/jamamjadalone/stock-submission-assistant)** — Desktop tool verifying photos, vectors, and PNG files against major microstock submission requirements (Adobe Stock, Freepik, Shutterstock).
-- **[Stock CSV Converter](https://github.com/jamamjadalone/Stock-CSV-Converter)** — Multi-platform stock metadata transformer supporting 12+ agencies.
+- **[AI Code Downloader](https://github.com/jamamjadalone/ai-code-downloader)** — Chrome extension to cleanly extract and save AI-generated code snippets with correct file extensions.
+- **[Stock Submission Assistant](https://github.com/jamamjadalone/stock-submission-assistant)** — Desktop tool verifying photos, vectors, and PNG files against Adobe Stock, Freepik, and Shutterstock submission specs.
+- **[Stock PNG Lab](https://github.com/jamamjadalone/stock-png-lab)** — Free client-side PNG validator for microstock contributors.
+- **[YouTube Playlist Extractor GUI](https://github.com/jamamjadalone/yt-playlist-extractor-gui)** — Python/Tkinter GUI to multithreadedly extract playlist video titles and URLs.
 
 #### 📱 Android & System Engineering
 - **[HTTP Secure Tunnel](https://github.com/jamamjadalone/HTTP-Secure-Tunnel)** — Android proxy client with kill-switch security built using Kotlin and Jetpack Compose.
 - **[E5573Cs-322 Dead Boot Recovery](https://github.com/jamamjadalone/e5573cs-322-dead-boot-recovery)** — Firmware restoration and low-level recovery toolkit for Huawei Balong V7R11 chipsets.
+- **[1Patch](https://github.com/jamamjadalone/1patch)** — Android boot image utilities and safe patching tools for a52q.
 
 ---
 
@@ -46,7 +51,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jamamjadalone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jamamjadalone&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamamjadalone&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 
 </div>
@@ -54,5 +59,5 @@
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ for Jam Amjad Alone's Open Source Profile</sub>
+  <sub>Muhammad Amjad Rasheed (@jamamjadalone) • Open Source Developer</sub>
 </div>
