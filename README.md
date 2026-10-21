@@ -4,29 +4,32 @@
 ### Full-Stack & Systems Developer | AI & Automation Enthusiast
 
 [![YouTube](https://img.shields.io/badge/YouTube-@jamamjadalone-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@jamamjadalone)
-[![GitLab](https://img.shields.io/badge/GitLab-jamamjadalone-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/jamamjadalone)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-OmniTools-6366F1?style=for-the-badge&logo=vercel)](https://omnitools.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-jamamjadalone-181717?style=for-the-badge&logo=github)](https://github.com/jamamjadalone)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-OmniTools-6366F1?style=for-the-badge&logo=vercel)](https://omnitools.vercel.app)
 
 <p align="center">
-  Passionate about developing intelligent automation workflows, privacy-first web suites, desktop workstations, and open-source system tools.
+  Passionate about architecting high-performance automation workflows, privacy-first web utilities, desktop workstations, and open-source system tools.
 </p>
 
 </div>
 
 ---
 
-### 🚀 Featured Public Projects by Category
+### 🚀 Featured Open-Source Projects
 
-#### 🤖 Flagship Automation & Desktop Suites
+#### 🤖 Automation Workstations & Desktop Suites
 - **[OmniStock](https://github.com/jamamjadalone/omnistock)** — Standalone desktop suite for microstock & AI contributors. Pre-flight 4MP–100MP validation, metadata inspection, privacy GPS wiping, and 1-click multi-agency CSV exporter for Adobe Stock, Shutterstock, Freepik & Vecteezy.
 - **[AANO (Android Encrypted Notes)](https://github.com/jamamjadalone/AANO)** — Private, offline-first encrypted notes & tasks Android app with AES-256-GCM, biometric lock, and local backup security.
 - **[Prompt-Image Pair Capturer](https://github.com/jamamjadalone/prompt-image-pair-capturer)** — MV3 browser extension that automatically pairs AI generation prompts with images, storing them locally with JSON export.
 - **[Episode Renamer](https://github.com/jamamjadalone/episode-renamer)** — Python GUI tool to batch rename video series and files with clean preview and part numbering.
 
 #### 🌐 Web Applications & Front-End Suites
-- **[OmniTools](https://github.com/jamamjadalone/omnitools)** — 150+ in-browser web utilities across 10 categories (Image tools, Converters, Developer utilities, SEO, Calculators). 100% client-side with zero server roundtrips. Live: [omnitools.vercel.app](https://omnitools.vercel.app)
-- **[Islamic Azkar Pro](https://github.com/jamamjadalone/islamic-azkar-pro)** — Modern, responsive Islamic Azkar & Tasbeeh web app with Quran.com Tajweed API integration and offline PWA capability. Live: [islamic-azkar-pro.vercel.app](https://islamic-azkar-pro.vercel.app)
-- **[50+ HTML/CSS/JS Projects](https://github.com/jamamjadalone/50-html-css-js-projects)** — Curated collection of front-end projects with live interactive demos. Live: [50-html-css-js-projects.vercel.app](https://50-html-css-js-projects.vercel.app)
+- **[OmniTools](https://github.com/jamamjadalone/omnitools)** — 150+ in-browser web utilities across 10 categories (Image tools, Converters, Developer utilities, SEO, Calculators). 100% client-side with zero server roundtrips.  
+  👉 **Live Demo:** [omnitools.vercel.app](https://omnitools.vercel.app)
+- **[Islamic Azkar Pro](https://github.com/jamamjadalone/islamic-azkar-pro)** — Modern, responsive Islamic Azkar & Tasbeeh web app with Quran.com Tajweed API integration and offline PWA capability.  
+  👉 **Live Demo:** [islamic-azkar-pro.vercel.app](https://islamic-azkar-pro.vercel.app)
+- **[50+ HTML/CSS/JS Projects](https://github.com/jamamjadalone/50-html-css-js-projects)** — Curated collection of front-end projects with live interactive demos.  
+  👉 **Live Demo:** [50-html-css-js-projects.vercel.app](https://50-html-css-js-projects.vercel.app)
 - **[Urdu Thumbnail Maker](https://github.com/jamamjadalone/Urdu-Thumbnail-Maker)** — Lightweight browser-based tool to generate bold Urdu thumbnails for content creators.
 - **[Urdu Scrolling Video Generator](https://github.com/jamamjadalone/urdu-scrolling-video-generator)** — Browser-based video creator for automated Urdu scrolling poetry and story reels.
 
@@ -42,6 +45,23 @@
 
 ---
 
+### 📊 GitHub Activity & Developer Stats
+
 <div align="center">
-  <sub>Muhammad Amjad Rasheed (@jamamjadalone) • Open Source Developer</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jamamjadalone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Muhammad Amjad Rasheed's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamamjadalone&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamamjadalone&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Muhammad Amjad Rasheed (@jamamjadalone) • Open Source Developer • Multan, Pakistan</sub>
 </div>
