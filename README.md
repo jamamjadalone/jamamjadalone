@@ -5,7 +5,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-@jamamjadalone-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@jamamjadalone)
 [![GitHub](https://img.shields.io/badge/GitHub-jamamjadalone-181717?style=for-the-badge&logo=github)](https://github.com/jamamjadalone)
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-OmniTools-6366F1?style=for-the-badge&logo=vercel)](https://omnitools-hazel.vercel.app/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-OmniTools-6366F1?style=for-the-badge&logo=github)](https://jamamjadalone.github.io/omnitools/)
 
 <p align="center">
   Passionate about architecting high-performance automation workflows, privacy-first web utilities, desktop workstations, and open-source system tools.
@@ -17,21 +17,23 @@
 
 ### 🚀 Featured Open-Source Projects
 
-#### 🤖 Automation Workstations & Desktop Suites
-- **[OmniStock](https://github.com/jamamjadalone/omnistock)** — Standalone desktop suite for microstock & AI contributors. Pre-flight 4MP–100MP validation, metadata inspection, privacy GPS wiping, and 1-click multi-agency CSV exporter for Adobe Stock, Shutterstock, Freepik & Vecteezy.
-- **[AANO (Android Encrypted Notes)](https://github.com/jamamjadalone/AANO)** — Private, offline-first encrypted notes & tasks Android app with AES-256-GCM, biometric lock, and local backup security.
+#### 🤖 Applications & Desktop Suites
+- **[AANO (Encrypted Notes & Vault)](https://github.com/jamamjadalone/AANO)** — Minimalist, private cross-platform notes suite with Android app, Windows desktop client, and Cloudflare D1 edge sync.  
+  🌐 **Live Site:** [jamamjadalone.github.io/AANO](https://jamamjadalone.github.io/AANO/)
 - **[Prompt-Image Pair Capturer](https://github.com/jamamjadalone/prompt-image-pair-capturer)** — MV3 browser extension that automatically pairs AI generation prompts with images, storing them locally with JSON export.
 - **[Episode Renamer](https://github.com/jamamjadalone/episode-renamer)** — Python GUI tool to batch rename video series and files with clean preview and part numbering.
 
 #### 🌐 Web Applications & Front-End Suites
 - **[OmniTools](https://github.com/jamamjadalone/omnitools)** — 150+ in-browser web utilities across 10 categories (Image tools, Converters, Developer utilities, SEO, Calculators). 100% client-side with zero server roundtrips.  
-  👉 **Live Demo:** [omnitools-hazel.vercel.app](https://omnitools-hazel.vercel.app/)
+  🌐 **Live App:** [jamamjadalone.github.io/omnitools](https://jamamjadalone.github.io/omnitools/)
 - **[Islamic Azkar Pro](https://github.com/jamamjadalone/islamic-azkar-pro)** — Modern, responsive Islamic Azkar & Tasbeeh web app with Quran.com Tajweed API integration and offline PWA capability.  
-  👉 **Live Demo:** [islamic-azkar-pro.vercel.app](https://islamic-azkar-pro.vercel.app/)
+  🌐 **Live App:** [jamamjadalone.github.io/islamic-azkar-pro](https://jamamjadalone.github.io/islamic-azkar-pro/)
 - **[50+ HTML/CSS/JS Projects](https://github.com/jamamjadalone/50-html-css-js-projects)** — Curated collection of front-end projects with live interactive demos.  
-  👉 **Live Demo:** [50-html-css-js-projects.vercel.app](https://50-html-css-js-projects.vercel.app/)
-- **[Urdu Thumbnail Maker](https://github.com/jamamjadalone/Urdu-Thumbnail-Maker)** — Lightweight browser-based tool to generate bold Urdu thumbnails for content creators.
-- **[Urdu Scrolling Video Generator](https://github.com/jamamjadalone/urdu-scrolling-video-generator)** — Browser-based video creator for automated Urdu scrolling poetry and story reels.
+  🌐 **Live Showcase:** [jamamjadalone.github.io/50-html-css-js-projects](https://jamamjadalone.github.io/50-html-css-js-projects/)
+- **[Urdu Thumbnail Maker](https://github.com/jamamjadalone/Urdu-Thumbnail-Maker)** — Lightweight browser-based tool to generate bold Urdu thumbnails for content creators.  
+  🌐 **Live App:** [jamamjadalone.github.io/Urdu-Thumbnail-Maker](https://jamamjadalone.github.io/Urdu-Thumbnail-Maker/)
+- **[Urdu Scrolling Video Generator](https://github.com/jamamjadalone/urdu-scrolling-video-generator)** — Browser-based video creator for automated Urdu scrolling poetry and story reels.  
+  🌐 **Live App:** [jamamjadalone.github.io/urdu-scrolling-video-generator](https://jamamjadalone.github.io/urdu-scrolling-video-generator/)
 
 ---
 
@@ -40,7 +42,7 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frameworks & Tools** | ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-0284C7?style=flat-square&logo=python&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Frameworks & Tools** | ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-0284C7?style=flat-square&logo=python&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white) |
 | **Platforms & Environments** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
 
 ---
