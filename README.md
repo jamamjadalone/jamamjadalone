@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,30&height=200&section=header&text=Muhammad%20Amjad%20Rasheed&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Systems%20Developer%20%7C%20Open-Source%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Muhammad%20Amjad%20Rasheed&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Systems%20Developer%20%7C%20Open-Source%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -58,14 +58,14 @@ philosophy: "Fast, modular, and 100% offline-capable software."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jamamjadalone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamamjadalone&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=jamamjadalone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jamamjadalone&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jamamjadalone&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=jamamjadalone&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 </div>
 
@@ -73,7 +73,7 @@ philosophy: "Fast, modular, and 100% offline-capable software."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0f172a&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 <sub>Designed with clean engineering • Muhammad Amjad Rasheed (@jamamjadalone)</sub>
 
