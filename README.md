@@ -1,58 +1,65 @@
 <div align="center">
 
-# Hi there, I'm Muhammad Amjad Rasheed 👋
-### Full-Stack & Systems Developer | AI & Automation Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,30&height=200&section=header&text=Muhammad%20Amjad%20Rasheed&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Systems%20Developer%20%7C%20Open-Source%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
-[![YouTube](https://img.shields.io/badge/YouTube-@jamamjadalone-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@jamamjadalone)
-[![GitHub](https://img.shields.io/badge/GitHub-jamamjadalone-181717?style=for-the-badge&logo=github)](https://github.com/jamamjadalone)
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-OmniTools-6366F1?style=for-the-badge&logo=github)](https://jamamjadalone.github.io/omnitools/)
+<br/>
 
-<p align="center">
-  Passionate about architecting high-performance automation workflows, privacy-first web utilities, desktop workstations, and open-source system tools.
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Developer;Building+Privacy-First+Open-Source+Utilities;Python+%7C+Kotlin+%7C+Edge+Workstations;Creator+of+WhatsClean+Desktop+%26+AANO;Passionate+about+High-Performance+Automation" alt="Typing SVG" /></a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-jamamjadalone.is--a.dev-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jamamjadalone.is-a.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-@jamamjadalone-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jamamjadalone)
+[![GitHub](https://img.shields.io/badge/GitHub-jamamjadalone-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamamjadalone)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamamjadalone@gmail.com)
 
 </div>
 
 ---
 
+### ⚡ About Me
+
+```yaml
+name: Muhammad Amjad Rasheed
+location: Multan, Pakistan
+focus: Systems Development, Desktop Utilities, Privacy-First Architecture
+current_focus: Building viral, zero-telemetry open-source tools
+portfolio: https://jamamjadalone.is-a.dev
+philosophy: "Fast, modular, and 100% offline-capable software."
+```
+
+---
+
 ### 🚀 Featured Open-Source Projects
 
-#### 🤖 Applications & Desktop Suites
-- **[AANO (Encrypted Notes & Vault)](https://github.com/jamamjadalone/AANO)** — Minimalist, private cross-platform notes suite with Android app, Windows desktop client, and Cloudflare D1 edge sync.  
-  🌐 **Live Site:** [jamamjadalone.github.io/AANO](https://jamamjadalone.github.io/AANO/)
-- **[Prompt-Image Pair Capturer](https://github.com/jamamjadalone/prompt-image-pair-capturer)** — MV3 browser extension that automatically pairs AI generation prompts with images, storing them locally with JSON export.
-- **[Episode Renamer](https://github.com/jamamjadalone/episode-renamer)** — Python GUI tool to batch rename video series and files with clean preview and part numbering.
-
-#### 🌐 Web Applications & Front-End Suites
-- **[OmniTools](https://github.com/jamamjadalone/omnitools)** — 150+ in-browser web utilities across 10 categories (Image tools, Converters, Developer utilities, SEO, Calculators). 100% client-side with zero server roundtrips.  
-  🌐 **Live App:** [jamamjadalone.github.io/omnitools](https://jamamjadalone.github.io/omnitools/)
-- **[Islamic Azkar Pro](https://github.com/jamamjadalone/islamic-azkar-pro)** — Modern, responsive Islamic Azkar & Tasbeeh web app with Quran.com Tajweed API integration and offline PWA capability.  
-  🌐 **Live App:** [jamamjadalone.github.io/islamic-azkar-pro](https://jamamjadalone.github.io/islamic-azkar-pro/)
-- **[50+ HTML/CSS/JS Projects](https://github.com/jamamjadalone/50-html-css-js-projects)** — Curated collection of front-end projects with live interactive demos.  
-  🌐 **Live Showcase:** [jamamjadalone.github.io/50-html-css-js-projects](https://jamamjadalone.github.io/50-html-css-js-projects/)
-- **[Urdu Thumbnail Maker](https://github.com/jamamjadalone/Urdu-Thumbnail-Maker)** — Lightweight browser-based tool to generate bold Urdu thumbnails for content creators.  
-  🌐 **Live App:** [jamamjadalone.github.io/Urdu-Thumbnail-Maker](https://jamamjadalone.github.io/Urdu-Thumbnail-Maker/)
-- **[Urdu Scrolling Video Generator](https://github.com/jamamjadalone/urdu-scrolling-video-generator)** — Browser-based video creator for automated Urdu scrolling poetry and story reels.  
-  🌐 **Live App:** [jamamjadalone.github.io/urdu-scrolling-video-generator](https://jamamjadalone.github.io/urdu-scrolling-video-generator/)
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[WhatsClean Desktop](https://github.com/jamamjadalone/whatsclean-desktop)** | Fast, zero-telemetry Windows storage cleaner for WhatsApp Desktop caches (<18MB standalone .exe). | `Python` `pywebview` `Edge WebView2` `ctypes` | [![Active](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)](https://github.com/jamamjadalone/whatsclean-desktop) |
+| **[AANO](https://github.com/jamamjadalone/AANO)** | Encrypted notes & vault suite with Android app, Windows desktop client, and Cloudflare D1 edge sync. | `Kotlin` `Jetpack Compose` `Cloudflare D1` | [![Active](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)](https://github.com/jamamjadalone/AANO) |
+| **[Islamic Azkar Pro](https://github.com/jamamjadalone/islamic-azkar-pro)** | Responsive spiritual Azkar & Tasbeeh PWA with Quran audio tajweed & offline caching. | `PWA` `JavaScript` `Audio API` | [![Live](https://img.shields.io/badge/Demo-Live-0284c7?style=flat-square)](https://jamamjadalone.github.io/islamic-azkar-pro/) |
+| **[OmniTools](https://github.com/jamamjadalone/omnitools)** | 150+ client-side in-browser web utilities across 10 categories with 0 server roundtrips. | `HTML5` `Tailwind` `Web APIs` | [![Live](https://img.shields.io/badge/Demo-Live-0284c7?style=flat-square)](https://jamamjadalone.github.io/omnitools/) |
+| **[Prompt-Image Pair Capturer](https://github.com/jamamjadalone/prompt-image-pair-capturer)** | MV3 browser extension that automatically pairs AI generation prompts with images. | `Chrome MV3` `JavaScript` | [![Active](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)](https://github.com/jamamjadalone/prompt-image-pair-capturer) |
 
 ---
 
-### 🛠️ Skills & Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frameworks & Tools** | ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-0284C7?style=flat-square&logo=python&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white) |
-| **Platforms & Environments** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) |
-
----
-
-### 📊 GitHub Activity & Developer Stats
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jamamjadalone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Muhammad Amjad Rasheed's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamamjadalone&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,html,css,androidstudio,linux,git,github,cloudflare,tailwind,vscode,postman,bash&perline=8" alt="Tech Stack Icons" />
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Developer Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jamamjadalone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamamjadalone&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 
 </div>
 
@@ -65,5 +72,9 @@
 ---
 
 <div align="center">
-  <sub>Muhammad Amjad Rasheed (@jamamjadalone) • Open Source Developer • Multan, Pakistan</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,30&height=100&section=footer" width="100%" alt="Footer Banner" />
+
+<sub>Designed with clean engineering • Muhammad Amjad Rasheed (@jamamjadalone)</sub>
+
 </div>
