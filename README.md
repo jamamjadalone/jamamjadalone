@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/jamamjadalone/jamamjadalone@5a11353/assets/header.svg" width="100%" alt="Header Banner" />
+<img src="https://cdn.jsdelivr.net/gh/jamamjadalone/jamamjadalone@c151276/assets/header.svg" width="100%" alt="Header Banner" />
 
 <br/><br/>
 
@@ -99,6 +99,6 @@ status: "Building next-generation open-source utilities."
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/jamamjadalone/jamamjadalone@5a11353/assets/footer.svg" width="100%" alt="Footer Banner" />
+<img src="https://cdn.jsdelivr.net/gh/jamamjadalone/jamamjadalone@c151276/assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
