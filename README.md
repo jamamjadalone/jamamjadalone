@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-jamamjadalone.is--a.dev-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jamamjadalone.is-a.dev)
 [![YouTube](https://img.shields.io/badge/YouTube-@jamamjadalone-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jamamjadalone)
 [![GitHub](https://img.shields.io/badge/GitHub-jamamjadalone-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamamjadalone)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamamjadalone@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=jamamjadalone&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jamamjadalone)
 
 </div>
@@ -22,7 +21,6 @@
 
 ```yaml
 name: Muhammad Amjad Rasheed
-location: Multan, Pakistan
 role: Full-Stack & Systems Developer
 specialization: Desktop Utilities, High-Performance Automation, Edge Cloud
 portfolio: https://jamamjadalone.is-a.dev
