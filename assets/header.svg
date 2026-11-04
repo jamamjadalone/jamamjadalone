@@ -82,8 +82,8 @@
   <text x="427" y="96" class="title" text-anchor="middle">Muhammad Amjad Rasheed</text>
 
   <!-- Subtitle -->
-  <text x="427" y="128" class="subtitle" text-anchor="middle">Full-Stack &amp; Systems Developer &bull; Open-Source Engineer &bull; Automation</text>
+  <text x="427" y="128" class="subtitle" text-anchor="middle">Full-Stack &amp; Systems Developer • Open-Source Engineer • Automation</text>
 
   <!-- Highlight Tagline -->
-  <text x="427" y="158" class="tagline" text-anchor="middle">&bull; Fast &bull; Modular &bull; Zero-Telemetry &bull; 100% Offline-First Architecture</text>
+  <text x="427" y="158" class="tagline" text-anchor="middle">• Fast • Modular • Zero-Telemetry • 100% Offline-First Architecture</text>
 </svg>

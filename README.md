@@ -60,7 +60,11 @@ status: "Building next-generation open-source utilities."
 
 <div align="center">
 
-<img alt="GitHub Contribution Snake Animation" src="https://cdn.jsdelivr.net/gh/jamamjadalone/jamamjadalone@output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamamjadalone/jamamjadalone/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamamjadalone/jamamjadalone/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/jamamjadalone/jamamjadalone/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
