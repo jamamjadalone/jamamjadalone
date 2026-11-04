@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Muhammad%20Amjad%20Rasheed&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Systems%20Developer%20%7C%20Open-Source%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://raw.githubusercontent.com/jamamjadalone/jamamjadalone/main/assets/header.svg" width="100%" alt="Header Banner" />
 
-<br/>
+<br/><br/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Systems+Developer;Building+Privacy-First+Open-Source+Utilities;Python+%7C+Kotlin+%7C+Edge+Workstations;Creator+of+WhatsClean+Desktop+%26+AANO;Passionate+about+High-Performance+Automation" alt="Typing SVG" /></a>
 
@@ -99,8 +99,6 @@ status: "Building next-generation open-source utilities."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0f172a&height=100&section=footer" width="100%" alt="Footer Banner" />
-
-<sub>Designed with clean engineering • Muhammad Amjad Rasheed (@jamamjadalone)</sub>
+<img src="https://raw.githubusercontent.com/jamamjadalone/jamamjadalone/main/assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
